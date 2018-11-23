@@ -26,27 +26,24 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [An Overview of SVG Patterns](https://blogs.adobe.com/creativecloud/svg-patterns/) by Lucas Bebber
 * [SVG Decoration: Strokes](http://thenewcode.com/358/SVG-Decoration-Strokes) by Dudley Storey
 * Understanding SVG Coordinate Systems and Transformations by Sara Soueidan
-** [(Part 1) — The viewport, viewBox, and preserveAspectRatio](https://www.sarasoueidan.com/blog/svg-coordinate-systems/)
-** [(Part 2) — The transform Attribute](https://www.sarasoueidan.com/blog/svg-transformations/)
-** [(Part 3) — Establishing New Viewports](https://www.sarasoueidan.com/blog/nesting-svgs/)
+  * [(Part 1) — The viewport, viewBox, and preserveAspectRatio](https://www.sarasoueidan.com/blog/svg-coordinate-systems/)
+  * [(Part 2) — The transform Attribute](https://www.sarasoueidan.com/blog/svg-transformations/)
+  * [(Part 3) — Establishing New Viewports](https://www.sarasoueidan.com/blog/nesting-svgs/)
 * [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/) by Ana Tudor
 * [Clipping in CSS and SVG](https://www.sarasoueidan.com/blog/css-svg-clipping/) by Sara Soueidan
 * [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/) by Sara Soueidan (slides)
-
 * [SVG Scripting](http://tutorials.jenkov.com/svg/scripting.html) by Jakob Jenkov
 
 ## Styling SVG's with CSS
 * [Styling and Animating SVGs with CSS - article](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/) by Sara Soueidan
 * [Styling and Animating SVGs with CSS - slides](http://slides.com/sarasoueidan/styling-animating-svgs-with-css#/) by Sara Soueidan
 * [CSS vs SVG: The Final Round(up)](https://theblog.adobe.com/css-vs-svg-the-final-roundup) by Sara Soueidan
-
 * [Styling SVG `<use>` Content with CSS](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/) by Sara Soueidan
 
 ## SVG Animation
 * [Animating SVGs with CSS and SMIL](http://slides.com/sarasoueidan/animating-svg-with-css-and-smil-full-version#/) by Sara Soueidan
 * [Weighing SVG Animation Techniques (with Benchmarks)](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/) by Sarah Drasner
 * [The State of SVG Animation](https://theblog.adobe.com/the-state-of-svg-animation) by Sara Soueidan
-
 * [A Few Different Ways to Use SVG Sprites in Animation](https://www.smashingmagazine.com/2015/03/different-ways-to-use-svg-sprites-in-animation/) by Sarah Drasner
 * [Animating Clipped Elements in SVG](https://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/) by Dennis Gaebel
 * [Create a Single Animated SVG File Containing CSS, Fonts and JavaScript](https://www.youtube.com/watch?v=S6P_N2JWSrc&feature=youtu.be&list=PLIw40AGus5WB6fieI8P_OpAz4u6lzFAr6) by Chris Gannon (video)
@@ -64,9 +61,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [SVG Element Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element) at MDN web docs
 * [SVG Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute) at MDN web docs
 * [SVG Property Index](https://www.w3.org/TR/SVG/propidx.html) -Appendix N of the SVG 1.1 spec
-
 * [Inkscape SVG Forums](http://www.inkscapeforum.com/viewforum.php?f=16)
-
 * [SVG Immersion](http://svgimmersion.com/) - "The" SVG Podcast
 * [The Web Ahead 67: SVG with Doug Schepers](http://5by5.tv/webahead/67)
 
