@@ -13,6 +13,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [SVG Files - From Illustrator to the Web](https://design.tutsplus.com/tutorials/svg-files-from-illustrator-to-the-web--vector-20899) by Ian Yates
 * [Export SVG for the Web with Illustrator CC](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/) by Michael Chaize
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/) by Joni Trythall (text or audio)
+* [SVG on the Web - a Practical Guide](https://svgontheweb.com/) by Jake Giltsoff
 * [Web Developer Reading List - Introduction to SVG](http://thenewcode.com/970/Web-Developer-Reading-List-Introduction-to-SVG) by Dudley Storey
 * [Structuring, Grouping and Referencing in SVG](https://www.sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/) by Sara Soueidan
 * [Working With Text in SVG](https://www.hongkiat.com/blog/scalable-vector-graphics-text/) by Thoriq Firdaus
@@ -47,8 +48,37 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [A Few Different Ways to Use SVG Sprites in Animation](https://www.smashingmagazine.com/2015/03/different-ways-to-use-svg-sprites-in-animation/) by Sarah Drasner
 * [Animating Clipped Elements in SVG](https://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/) by Dennis Gaebel
 * [Create a Single Animated SVG File Containing CSS, Fonts and JavaScript](https://www.youtube.com/watch?v=S6P_N2JWSrc&feature=youtu.be&list=PLIw40AGus5WB6fieI8P_OpAz4u6lzFAr6) by Chris Gannon (video)
+* [How I Stopped Worrying and Learned to Animate SVG](https://medium.com/@aniboaz/animate-svg-4fa7dd00e860) by Boaz Lederer
+* [SVGator](https://www.svgator.com/) - online SVG animation editor
+
+## SVG Editors 
+* Adobe Illustrator
+* [Inkscape](https://inkscape.org/) - free, open-source vector graphics editor
+* [Vectr](https://vectr.com/#) - free vector graphics software
+* [SVG-Edit](http://www.clker.com/inc/svgedit/svg-editor.html) - online SVG editor
+* [Boxy SVG](https://boxy-svg.com/) - online SVG editor
+* [DRAW SVG](http://www.drawsvg.org/drawsvg.html) - online SVG editor
+* [SVG Viewer and Editor Online](https://www.rapidtables.com/web/tools/svg-viewer-editor.html) - Write or paste SVG code and see the results immediately
+* [SVGator](https://www.svgator.com/) - online SVG animation editor
 
 ## Tools for Working with SVG
+* [SVGO](https://github.com/svg/svgo) - Node-based SVG Optimizer
+* [SVGOMG](https://jakearchibald.github.io/svgomg/) - GUI for SVGO by Jake Archibald
+* [SVG Optimizer](http://petercollingridge.appspot.com/svg-optimiser) - online SVG optimizer by Peter Collingridge
+* [svg4everybody](https://github.com/jonathantneal/svg4everybody) - a polyfill for SVG spritemaps
+* [Grunticon](http://www.grunticon.com/) - Grunt-task for auto-generating fallback PNGs
+* [Grumpicon](http://www.grumpicon.com/) - A webapp for the Grunticon workflow
+
+## JS Libraries for SVG
+* [D3](https://d3js.org/) - Data-visualization
+* [SVG.js](https://svgjs.com/docs/2.7/)
+* [Snap.svg](http://snapsvg.io/)
+* [Raphaël](http://raphaeljs.com/)
+* [GSAP](https://greensock.com/gsap) - Greensock Animation Platform
+  * [DrawSVG](https://greensock.com/drawSVG) - paid plugin
+  * [MorphSVG](https://greensock.com/morphSVG) - paid plugin
+* [Vivus.js](https://maxwellito.github.io/vivus/) - Let's you animate the line-drawing effect
+* [Velocity.js](http://velocityjs.org/) - Basic animations made easy
 
 ## SVG Tutorials
 
