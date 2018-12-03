@@ -81,6 +81,13 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Velocity.js](http://velocityjs.org/) - Basic animations made easy
 
 ## SVG Tutorials
+* [SVG Tutorials by Jakob Jenkov](http://tutorials.jenkov.com/svg/index.html)
+* [How to Use Inkscape to Convert to SVG](https://www.youtube.com/watch?v=1cZk08x_rAI&feature=youtu.be) - video
+* [How to Animate Festive SVG Icons With CSS](https://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658) by Noah Blon
+* [How To Create (Animated) Text Fills](https://tympanus.net/codrops/2015/02/16/create-animated-text-fills/) by yoksel
+* [Creative Gooey Effects](https://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) by Lucas Bebber
+* [Motion Blur Effect with SVG](https://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/) by Lucas Bebber
+* [Building an Interactive Infographic Using Vue.js (and SVG)](https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/) by Krutie Patel
 
 ## SVG Demo Collections
 * [SVG 101 - Instructive SVGs](https://codepen.io/collection/AxKdex/) by Katrine-Marie Burmeister
