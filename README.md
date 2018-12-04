@@ -32,6 +32,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
   * [(Part 3) — Establishing New Viewports](https://www.sarasoueidan.com/blog/nesting-svgs/)
 * [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/) by Ana Tudor
 * [Clipping in CSS and SVG](https://www.sarasoueidan.com/blog/css-svg-clipping/) by Sara Soueidan
+* [A Comprehensive Guide to Clipping and Masking with SVG](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380) by Dennis Gaebel
 * [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/) by Sara Soueidan (slides)
 * [SVG Scripting](http://tutorials.jenkov.com/svg/scripting.html) by Jakob Jenkov
 
@@ -102,5 +103,6 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [SVG Immersion](http://svgimmersion.com/) - "The" SVG Podcast
 * [The Web Ahead 67: SVG with Doug Schepers](http://5by5.tv/webahead/67)
 
-
+## (Free) SVG Resources
+* [Free SVG Maps](https://www.amcharts.com/svg-maps/)
 
