@@ -22,6 +22,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Inline SVG vs Icon Font - CAGEMATCH](https://css-tricks.com/icon-fonts-vs-svg/) by Chris Coyier
 
 ## Working with SVG - Advanced Concepts
+* [SVG Tutorials by Jakob Jenkov](http://tutorials.jenkov.com/svg/index.html)
 * [The Art of SVG Filters and Why It Is Awesome](https://www.smashingmagazine.com/2015/05/why-the-svg-filter-is-awesome/) by Dirk Weber
 * [How to Go Beyond the Basics with SVG Filters](https://www.creativebloq.com/netmag/how-go-beyond-basics-svg-filters-71412280) by Michael Mullany
 * [An Overview of SVG Patterns](https://blogs.adobe.com/creativecloud/svg-patterns/) by Lucas Bebber
@@ -82,13 +83,14 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Velocity.js](http://velocityjs.org/) - Basic animations made easy
 
 ## SVG Tutorials
-* [SVG Tutorials by Jakob Jenkov](http://tutorials.jenkov.com/svg/index.html)
-* [How to Use Inkscape to Convert to SVG](https://www.youtube.com/watch?v=1cZk08x_rAI&feature=youtu.be) - video
 * [How to Animate Festive SVG Icons With CSS](https://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658) by Noah Blon
 * [How To Create (Animated) Text Fills](https://tympanus.net/codrops/2015/02/16/create-animated-text-fills/) by yoksel
 * [Creative Gooey Effects](https://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) by Lucas Bebber
 * [Motion Blur Effect with SVG](https://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/) by Lucas Bebber
+* [Creating an Interactive Map Using SVG and CSS](https://medium.com/@mattcroak718/creating-an-interactive-map-using-svg-and-css-94a688c11bd6) by Matthew Croak
+* [Interactive Infographic with SVG and CSS Animations](https://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/) by Adam Coulombe
 * [Building an Interactive Infographic Using Vue.js (and SVG)](https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/) by Krutie Patel
+* [Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react/) by Sarah Drasner
 
 ## SVG Demo Collections
 * [SVG 101 - Instructive SVGs](https://codepen.io/collection/AxKdex/) by Katrine-Marie Burmeister
@@ -99,9 +101,10 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [SVG Element Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element) at MDN web docs
 * [SVG Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute) at MDN web docs
 * [SVG Property Index](https://www.w3.org/TR/SVG/propidx.html) -Appendix N of the SVG 1.1 spec
-* [Inkscape SVG Forums](http://www.inkscapeforum.com/viewforum.php?f=16)
 * [SVG Immersion](http://svgimmersion.com/) - "The" SVG Podcast
 * [The Web Ahead 67: SVG with Doug Schepers](http://5by5.tv/webahead/67)
+* [Inkscape SVG Forums](http://www.inkscapeforum.com/viewforum.php?f=16)
+* [How to Use Inkscape to Convert to SVG](https://www.youtube.com/watch?v=1cZk08x_rAI&feature=youtu.be) - video
 
 ## (Free) SVG Resources
 * [Free SVG Maps](https://www.amcharts.com/svg-maps/)
