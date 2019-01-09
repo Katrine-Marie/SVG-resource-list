@@ -88,9 +88,11 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Creative Gooey Effects](https://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) by Lucas Bebber
 * [Motion Blur Effect with SVG](https://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/) by Lucas Bebber
 * [Creating an Interactive Map Using SVG and CSS](https://medium.com/@mattcroak718/creating-an-interactive-map-using-svg-and-css-94a688c11bd6) by Matthew Croak
+* [HTML5 SVG Fill Animation With CSS3 And Vanilla JavaScript](https://www.smashingmagazine.com/2019/01/html5-svg-fill-animation-css3-vanilla-javascript/) by Marina Ferreira
 * [Interactive Infographic with SVG and CSS Animations](https://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/) by Adam Coulombe
 * [Building an Interactive Infographic Using Vue.js (and SVG)](https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/) by Krutie Patel
 * [Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react/) by Sarah Drasner
+* [Animated SVG Icons with Snap.svg](https://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg/) by Mary Lou
 
 ## SVG Demo Collections
 * [SVG 101 - Instructive SVGs](https://codepen.io/collection/AxKdex/) by Katrine-Marie Burmeister
