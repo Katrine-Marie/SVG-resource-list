@@ -11,7 +11,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 
 ## Working with SVG - Basics
 * [SVG Files - From Illustrator to the Web](https://design.tutsplus.com/tutorials/svg-files-from-illustrator-to-the-web--vector-20899) by Ian Yates
-* [Export SVG for the Web with Illustrator CC](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/) by Michael Chaize
+* [How To Export SVGs For The Web From Illustrator](https://medium.com/@colinlord/how-to-export-svgs-for-the-web-from-illustrator-829bc1c841f6) by Colin Lord
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/) by Joni Trythall (text or audio)
 * [SVG on the Web - a Practical Guide](https://svgontheweb.com/) by Jake Giltsoff
 * [Web Developer Reading List - Introduction to SVG](http://thenewcode.com/970/Web-Developer-Reading-List-Introduction-to-SVG) by Dudley Storey
