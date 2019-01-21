@@ -8,6 +8,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Cracking the SVG Code](http://brendastorer.com/presentations/2015-10-CSSDevConf-SVGs/#intro) by Brenda Storer
 * [SVG Is For Everybody](https://www.youtube.com/watch?v=w83XRCkMtHQ&feature=youtu.be&list=PLIw40AGus5WB6fieI8P_OpAz4u6lzFAr6) - CSS-Tricks screencast
 * [You Don't Know SVG](https://www.youtube.com/watch?v=SeLOt_BRAqc&feature=youtu.be&list=PLIw40AGus5WB6fieI8P_OpAz4u6lzFAr6) by Dmitry Baranovskiy (video)
+* [The Fall and Rise of SVG](https://www.siliconpublishing.com/blog/2015/12/the-fall-and-rise-of-svg) by Max Dunn
 
 ## Working with SVG - Basics
 * [SVG Files - From Illustrator to the Web](https://design.tutsplus.com/tutorials/svg-files-from-illustrator-to-the-web--vector-20899) by Ian Yates
@@ -20,6 +21,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [How to Scale SVG](https://css-tricks.com/scale-svg/) by Amelia Bellamy-Royds
 * [A Complete Guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/) by Amelia Bellamy-Royds
 * [Inline SVG vs Icon Font - CAGEMATCH](https://css-tricks.com/icon-fonts-vs-svg/) by Chris Coyier
+* [System Fonts in SVG](https://css-tricks.com/system-fonts-svg/) by Chris Coyier
 
 ## Working with SVG - Advanced Concepts
 * [SVG Tutorials by Jakob Jenkov](http://tutorials.jenkov.com/svg/index.html)
@@ -100,7 +102,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Sophisticated Filter Effects](https://codepen.io/collection/ArxmyO/) by Dirk Weber
 * [SVG Fancy Town](https://codepen.io/collection/svfAa/) by Chris Coyier
 
-## Useful Links
+## Links and Resources
 * [SVG Element Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element) at MDN web docs
 * [SVG Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute) at MDN web docs
 * [SVG Property Index](https://www.w3.org/TR/SVG/propidx.html) - Appendix N of the SVG 1.1 spec
@@ -108,8 +110,8 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [SVG Immersion](http://svgimmersion.com/) - "The" SVG Podcast
 * [The Web Ahead 67: SVG with Doug Schepers](http://5by5.tv/webahead/67)
 * [Inkscape SVG Forums](http://www.inkscapeforum.com/viewforum.php?f=16)
-* [How to Use Inkscape to Convert to SVG](https://www.youtube.com/watch?v=1cZk08x_rAI&feature=youtu.be) - video
-
-## (Free) SVG Resources
 * [Free SVG Maps](https://www.amcharts.com/svg-maps/)
 
+## Other
+* [How to Use Inkscape to Convert to SVG](https://www.youtube.com/watch?v=1cZk08x_rAI&feature=youtu.be) - video
+* [SVG and the DOM, or “The Weirdest Bug I’ve Ever Encountered”](https://ponyfoo.com/articles/weirdest-bug-ever) by Nicolás Bevacqua
