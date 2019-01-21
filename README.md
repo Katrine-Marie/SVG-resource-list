@@ -126,11 +126,6 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react/) by Sarah Drasner
 * [Animated SVG Icons with Snap.svg](https://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg/) by Mary Lou
 
-## SVG Demo Collections
-* [SVG 101 - Instructive SVGs](https://codepen.io/collection/AxKdex/) by Katrine-Marie Burmeister
-* [Sophisticated Filter Effects](https://codepen.io/collection/ArxmyO/) by Dirk Weber
-* [SVG Fancy Town](https://codepen.io/collection/svfAa/) by Chris Coyier
-
 ## Links and Resources
 
 ### Guides and References
@@ -138,6 +133,11 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [SVG Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute) at MDN web docs
 * [SVG Property Index](https://www.w3.org/TR/SVG/propidx.html) - Appendix N of the SVG 1.1 spec
 * [SVG Authoring Guide](http://w3c.github.io/svgwg/specs/svg-authoring/) - W3C Editor's Draft
+
+### SVG Demo Collections
+* [SVG 101 - Instructive SVGs](https://codepen.io/collection/AxKdex/) by Katrine-Marie Burmeister
+* [Sophisticated Filter Effects](https://codepen.io/collection/ArxmyO/) by Dirk Weber
+* [SVG Fancy Town](https://codepen.io/collection/svfAa/) by Chris Coyier
 
 ### Podcasts and News
 * [SVG Immersion](http://svgimmersion.com/) - "The" SVG Podcast
