@@ -68,6 +68,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - GUI for SVGO by Jake Archibald
 * [SVG Optimizer](http://petercollingridge.appspot.com/svg-optimiser) - online SVG optimizer by Peter Collingridge
 * [svg4everybody](https://github.com/jonathantneal/svg4everybody) - a polyfill for SVG spritemaps
+* [xvg](https://xvg.now.sh/) - A Chrome extension for debugging SVG paths
 * [Grunticon](http://www.grunticon.com/) - Grunt-task for auto-generating fallback PNGs
 * [Grumpicon](http://www.grumpicon.com/) - A webapp for the Grunticon workflow
 
@@ -102,7 +103,8 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 ## Useful Links
 * [SVG Element Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element) at MDN web docs
 * [SVG Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute) at MDN web docs
-* [SVG Property Index](https://www.w3.org/TR/SVG/propidx.html) -Appendix N of the SVG 1.1 spec
+* [SVG Property Index](https://www.w3.org/TR/SVG/propidx.html) - Appendix N of the SVG 1.1 spec
+* [SVG Authoring Guide](http://w3c.github.io/svgwg/specs/svg-authoring/) - W3C Editor's Draft
 * [SVG Immersion](http://svgimmersion.com/) - "The" SVG Podcast
 * [The Web Ahead 67: SVG with Doug Schepers](http://5by5.tv/webahead/67)
 * [Inkscape SVG Forums](http://www.inkscapeforum.com/viewforum.php?f=16)
