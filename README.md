@@ -147,6 +147,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 
 ### Free SVG Resources
 * [Free SVG Maps](https://www.amcharts.com/svg-maps/)
+* [ICONSVG](https://iconsvg.xyz/)
 
 ### Other Useful Links - for Inspiration
 * [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/) by Sara Soueidan (slides)
