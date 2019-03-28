@@ -70,7 +70,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Animate a Blob of Text with SVG and Text Clipping](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/) by Zach Saucier
 * [Create a Single Animated SVG File Containing CSS, Fonts and JavaScript](https://www.youtube.com/watch?v=S6P_N2JWSrc&feature=youtu.be&list=PLIw40AGus5WB6fieI8P_OpAz4u6lzFAr6) by Chris Gannon (video)
 * [How I Stopped Worrying and Learned to Animate SVG](https://medium.com/@aniboaz/animate-svg-4fa7dd00e860) by Boaz Lederer
-* [SVG Circle  Decomposition To Paths] (https://www.smashingmagazine.com/2019/03/svg-circle-decomposition-paths/) by Bryan Rasmussen
+* [SVG Circle  Decomposition To Paths](https://www.smashingmagazine.com/2019/03/svg-circle-decomposition-paths/) by Bryan Rasmussen
 
 ## Tools for Working with SVG
 
