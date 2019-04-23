@@ -65,6 +65,7 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 
 ### "How To" Guides
 * [Animating SVGs with CSS and SMIL](http://slides.com/sarasoueidan/animating-svg-with-css-and-smil-full-version#/) by Sara Soueidan
+* [Animating SVG with CSS](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c) by Hope Armstrong
 * [A Few Different Ways to Use SVG Sprites in Animation](https://www.smashingmagazine.com/2015/03/different-ways-to-use-svg-sprites-in-animation/) by Sarah Drasner
 * [Animating Clipped Elements in SVG](https://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/) by Dennis Gaebel
 * [Animate a Blob of Text with SVG and Text Clipping](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/) by Zach Saucier
