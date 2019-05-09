@@ -28,9 +28,10 @@ A list of valuable resources for learning SVG, covering everything from basic sh
 * [Working With Text in SVG](https://www.hongkiat.com/blog/scalable-vector-graphics-text/) by Thoriq Firdaus
 * [System Fonts in SVG](https://css-tricks.com/system-fonts-svg/) by Chris Coyier
 
-### Compatibility
+### Compatibility and Performance
 * [A Complete Guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/) by Amelia Bellamy-Royds
 * [Inline SVG vs Icon Font - CAGEMATCH](https://css-tricks.com/icon-fonts-vs-svg/) by Chris Coyier
+* [Is Using SVG Images Good for Your Website’s Performance?](https://www.sitepoint.com/svg-good-for-website-performance/) by Maria Antonietta Perna
 
 ## Working with SVG - Advanced Concepts
 
