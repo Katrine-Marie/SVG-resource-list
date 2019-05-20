@@ -1,5 +1,5 @@
 # SVG-resource-list
-A list of valuable resources for learning SVG, covering everything from basic shapes to advanced topics like animation.
+A list of valuable resources for learning SVG. It covers everything from the basics of writing SVG code, or exporting it from, say, Adobe Illustrator - to advanced topics like how SVG interacts with CSS and Javascript. How to animate it - how to make it interactive.
 
 ## Introduction to SVG
 * [Working with SVG - a Primer](http://slides.com/sarasoueidan/working-with-svg-a-primer#/) by Sara Soueidan
