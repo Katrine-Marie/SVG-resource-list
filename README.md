@@ -47,6 +47,7 @@ At the end of the list you will also find a handy selection of tools for working
 ### SVG Patterns, Filters and Stroke
 * [The Art of SVG Filters and Why It Is Awesome](https://www.smashingmagazine.com/2015/05/why-the-svg-filter-is-awesome/) by Dirk Weber
 * [How to Go Beyond the Basics with SVG Filters](https://www.creativebloq.com/netmag/how-go-beyond-basics-svg-filters-71412280) by Michael Mullany
+* [Making a Realistic Glass Effect with SVG](https://css-tricks.com/making-a-realistic-glass-effect-with-svg/) by David Fitzgibbon
 * [An Overview of SVG Patterns](https://blogs.adobe.com/creativecloud/svg-patterns/) by Lucas Bebber
 * [SVG Decoration: Strokes](http://thenewcode.com/358/SVG-Decoration-Strokes) by Dudley Storey
 
