@@ -23,6 +23,7 @@ At the end of the list you will also find a handy selection of tools for working
 ### Exporting SVG Files
 * [SVG Files - From Illustrator to the Web](https://design.tutsplus.com/tutorials/svg-files-from-illustrator-to-the-web--vector-20899) by Ian Yates
 * [How To Export SVGs For The Web From Illustrator](https://medium.com/@colinlord/how-to-export-svgs-for-the-web-from-illustrator-829bc1c841f6) by Colin Lord
+* [Minify your SVGs](https://victorzhou.com/blog/minify-svgs/) by Victor Zhou
 
 ### SVG Structure, Scaling and Text
 * [Structuring, Grouping and Referencing in SVG](https://www.sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/) by Sara Soueidan
