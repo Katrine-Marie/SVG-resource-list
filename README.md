@@ -156,6 +156,7 @@ At the end of the list you will also find a handy selection of tools for working
 * [Free SVG Maps](https://www.amcharts.com/svg-maps/)
 * [ICONSVG](https://iconsvg.xyz/)
 * [SVG Loaders](https://samherbert.net/svg-loaders/)
+* [SVG Wave Generator](https://getwaves.io/)
 
 ### Other Useful Links - for Inspiration
 * [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/) by Sara Soueidan (slides)
