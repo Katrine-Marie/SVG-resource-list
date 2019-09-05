@@ -61,6 +61,7 @@ At the end of the list you will also find a handy selection of tools for working
 * [Styling and Animating SVGs with CSS - slides](http://slides.com/sarasoueidan/styling-animating-svgs-with-css#/) by Sara Soueidan
 * [CSS vs SVG: The Final Round(up)](https://theblog.adobe.com/css-vs-svg-the-final-roundup) by Sara Soueidan
 * [Styling SVG `<use>` Content with CSS](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/) by Sara Soueidan
+* [How to Dynamically Change the Colors of Product Images using CSS Blend Mode and SVG](https://tympanus.net/codrops/2019/09/03/how-to-dynamically-change-the-colors-of-product-images-using-css-blend-mode-and-svg/) by Kyle Wetton
 
 ## SVG Animation
 
