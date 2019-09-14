@@ -93,10 +93,11 @@ At the end of the list you will also find a handy selection of tools for working
 ### SVG Animations Editors
 * [SVGator](https://www.svgator.com/) - online SVG animation editor
 
-### SVG Optimizers
+### SVG Optimizers / Converters
 * [SVGO](https://github.com/svg/svgo) - Node-based SVG Optimizer
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - GUI for SVGO by Jake Archibald
 * [SVG Optimizer](http://petercollingridge.appspot.com/svg-optimiser) - online SVG optimizer by Peter Collingridge
+* [SVG 2 JSX](https://svg2jsx.com/)
 
 ### Polyfills and Compatibility
 * [svg4everybody](https://github.com/jonathantneal/svg4everybody) - a polyfill for SVG spritemaps
