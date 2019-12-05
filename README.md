@@ -115,7 +115,7 @@ At the end of the list you will also find a handy selection of tools for working
 * [Raphaël](http://raphaeljs.com/)
 
 ### Data Visualization
-* [D3](https://d3js.org/) - Data-visualization
+* [D3](https://d3js.org/) - Data-visualization framework
 
 ### Animation Libraries
 * [GSAP](https://greensock.com/gsap) - Greensock Animation Platform
