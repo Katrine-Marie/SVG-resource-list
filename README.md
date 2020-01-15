@@ -160,6 +160,7 @@ At the end of the list you will also find a handy selection of tools for working
 * [SVG Loaders](https://samherbert.net/svg-loaders/)
 * [SVG Wave Generator](https://getwaves.io/)
 * [Wireframer - an SVG Mockup Text Generator](https://www.wireframer.art/)
+* [unDraw - SVG Illustrations](https://undraw.co/illustrations)
 
 ### Other Useful Links - for Inspiration
 * [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/) by Sara Soueidan (slides)
